@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\vladi\Documents\practise12-02\MyString.h(8,30): warning C4244: инициализация: преобразование "double" в "const size_t", возможна потеря данных
+  MyString.cpp
+C:\Users\vladi\Documents\practise12-02\MyString.h(8,30): warning C4244: инициализация: преобразование "double" в "const size_t", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\vladi\Documents\practise12-02\MyString.cpp(251): warning C4715: MyString::operator[]: значение возвращается не при всех путях выполнения
+  All 183 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  practise12-02.vcxproj -> C:\Users\vladi\Documents\practise12-02\x64\Release\practise12-02.exe
