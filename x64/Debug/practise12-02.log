@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vladi\Documents\practise12-02\MyString.h(8,30): warning C4244: инициализация: преобразование "double" в "const size_t", возможна потеря данных
+  practise12-02.vcxproj -> C:\Users\vladi\Documents\practise12-02\x64\Debug\practise12-02.exe
