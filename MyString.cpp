@@ -30,8 +30,6 @@ MyString::MyString(const std::string& str) : m_size(str.length() + 1) {
 }
 
 MyString::MyString(const MyString& copy) : m_size(copy.m_size) {
-    delete[] m_string;
-
     m_string = new char[m_size];
 
     for (int i = 0; i < m_size; ++i) {
